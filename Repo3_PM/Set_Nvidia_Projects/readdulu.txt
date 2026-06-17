@@ -1,0 +1,7 @@
+Jangan lupa untuk mengecek pada torch, nvidia
+
+pip install torch
+pip install torchvision
+
+untuk nvidia, disarankan utk menggunakan WSL2
+// environment linux
